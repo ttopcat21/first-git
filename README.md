@@ -1,2 +1,2 @@
 # first-git
-First Git Repor
+First Git Repository
